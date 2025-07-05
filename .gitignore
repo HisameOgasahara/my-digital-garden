@@ -1,0 +1,16 @@
+.obsidian/
+output/
+node_modules/
+.DS_Store
+ComfyUI_01013_.png # 이 이미지는 docs/images로 옮길 예정이지만, 일단 루트에서 추적 막기 위해 포함
+
+# Quartz build output
+public
+.quartz-cache
+
+# Node
+node_modules
+
+# Deno
+denon.yml
+.deno.lock
